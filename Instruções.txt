@@ -1,0 +1,8 @@
+
+Crie uma pasta chamada src — onde ficará o código fonte.
+
+Crie uma pasta chamada data — para armazenar arquivos de dados, como banco SQLite ou CSV.
+
+Crie um arquivo requirements.txt — onde listaremos as dependências do projeto Python.
+
+Crie um arquivo principal main.py dentro da pasta src — ponto de entrada do seu CRM.
